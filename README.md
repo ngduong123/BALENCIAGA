@@ -2,7 +2,7 @@
 
 After download and extract the zip file:
 
-1. Open **BALENCIAGA-main foler** in Visual Studio Code
+1. Open **balenciaga foler** in Visual Studio Code
 
 2. Open the Terminal: 
 	Use the **Ctrl+Shift+`** keyboard shortcut to create a new terminal.
